@@ -1,0 +1,11 @@
+--pycache--/
+*.pyc
+
+output/
+log/*.BIN
+
+.venv/
+venv/
+.env
+
+.vscode/
